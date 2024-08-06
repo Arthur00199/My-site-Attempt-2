@@ -1,0 +1,40 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+
+}
+h1{
+  font-size: 500%;
+  margin-top: 0;
+  font-family: 'kalam', sans-serif;
+}
+p{
+  font-family: cursive;
+}
+
+.top-container{
+  background-color: #FFF5E4;
+}
+.middle-container{
+
+}
+.arc{
+  height: 20%;
+  width: 20%;
+}
+
+.bottom-container{
+
+}
+
+
+.bottom-cloud{
+  position: absolute;
+}
+.top-cloud{
+  position: relative;
+  left:225px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
